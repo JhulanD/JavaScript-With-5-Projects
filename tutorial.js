@@ -1,6 +1,6 @@
 // console.log('Hello JavaScript!');
 const prompt = require("prompt-sync")();
-const name = prompt('Hey stranger, what is ur name: ');
+const name = prompt('Hey stranger, what is your name: ');
 console.log('Hello ', name, ' welcome to the game!?');
 
 const shouldWePlay = prompt('Do you wanna play? ');
